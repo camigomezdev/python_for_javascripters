@@ -12,7 +12,7 @@ else {
 
 // You are a lucky person!
 
-let n_cats = 3
+n_cats = 3
 let message = n_cats >= 3 ? "Nice!" : "So sad"
 console.log(message)
 // Nice!
